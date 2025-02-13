@@ -156,12 +156,12 @@ after creating the GUI let's build the core game. we have to include the modle i
 ---
 
 ## Quick Preview
-1. Model segmentation
+   ### 1. Model segmentation
    ![knif tool](https://github.com/user-attachments/assets/1291ecf9-4218-4079-a283-3fe43e06abe3)
    ![heart parts](https://github.com/user-attachments/assets/161f400c-360a-46cc-8945-2dc663b2b6ef)
-2. GUI desing
+   ### 2. GUI desing
    ![GUI](https://github.com/user-attachments/assets/84e77fea-a38a-4a06-b474-792a8976d911)
-3. camera, drag & drop, snap, randomize, timer
+   ### 3. camera, drag & drop, snap, randomize, timer
    ![core1](https://github.com/user-attachments/assets/3634bec1-129e-4f22-afa5-2377d7296235)
    ![code](https://github.com/user-attachments/assets/fa8cd559-b3af-48fd-91b9-3f46a6443570)
    ![core2](https://github.com/user-attachments/assets/b105a974-f5e4-4a57-85ff-30fb5c24c4fb)
